@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What does CSS stand for?",
+        "choice1": "Cascading Style Sheets",
+        "choice2": "Creative Style Sheets",
+        "choice3": "Computer Style Sheets",
+        "choice4": "Colorful Style Sheets",
+        "answer": 1
+    },
+    {
+        "question": "Which HTML tag is used to define an unordered list?",
+        "choice1": "<ul>",
+        "choice2": "<li>",
+        "choice3": "<ol>",
+        "choice4": "<list>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external stylesheet called 'styles.css'?",
+        "choice1": "<stylesheet src='styles.css'>",
+        "choice2": "<link rel='stylesheet' type='text/css' href='styles.css'>",
+        "choice3": "<style src='styles.css'>",
+        "choice4": "<css href='styles.css'>",
+        "answer": 2
+    }
+]
